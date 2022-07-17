@@ -23,3 +23,13 @@ Releasesをご覧ください
 4.Nepmiumのファイルが有るところへ移動し、Windowsならエクスプローラーのアドレス欄に(Linuxやmacならターミナルでcdなどを使い移動し、)「python nepmium.py」と入れれば起動します
 
 Tip.nepmium_private.pyはDuckDuckGoを使うNepmium Browserです
+
+## 使い方
+
+←:ページを戻ります
+
+→:ページを進みます
+
+🔃:ページをリロードします
+
+GO:アドレス欄に入れたURLへ移動します(アドレス欄にURLを入力する場合は必ず「http://」か「https://」から入力してください)
