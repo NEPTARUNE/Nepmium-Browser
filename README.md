@@ -10,3 +10,16 @@ PythonとPyQT5で作った簡易ブラウザーです。
 
 Releasesをご覧ください
 
+## 起動方法
+
+1.Pythonをインストールします<br>
+
+2.「pip install pyqt5」をコマンドプロンプト(Linuxやmacならターミナル)で実行する
+
+3.「pip install PyQtWebEngine」をコマンドプロンプト(Linuxやmacならターミナル)で実行する
+
+(1と2と3は初回だけでいいです)
+
+4.Nepmiumのファイルが有るところへ移動し、Windowsならエクスプローラーのアドレス欄に(Linuxやmacならターミナルでcdなどを使い移動し、)「python nepmium.py」と入れれば起動します
+
+Tip.nepmium_private.pyはDuckDuckGoを使うNepmium Browserです
