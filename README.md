@@ -1,5 +1,5 @@
 # Nepmium Browser
-ライセンスについては、LICENSEファイルをご覧ください
+元ソースについては、LICENSEファイルをご覧ください
 
 <img src="https://cdn.discordapp.com/attachments/967750417104642048/997995323085553724/unknown.png">
 
@@ -47,3 +47,5 @@ Googleポップアップには非対応です
 サイトに有るYouTube動画の埋め込みの表示ではバグは発生しません
 
 しかしYouTubeの動画(埋め込みも含む)でも全画面表示は出来ません
+
+次のv1.2.0くらいではもっと独自機能盛り込みたい
