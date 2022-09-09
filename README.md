@@ -1,4 +1,6 @@
 # Nepmium Browser
+For the English version of the README, [click here.](README_EN.md)
+
 元ソースについては、LICENSEファイルをご覧ください
 
 <img src="https://cdn.discordapp.com/attachments/967750417104642048/997995323085553724/unknown.png">
