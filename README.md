@@ -16,7 +16,7 @@ Releasesでの最新バージョンをダウンロードします
 
 ### Version 1.2.0からEXE化されたのでEXEファイルを叩くだけで起動できるようになりました
 
-Tip.private.exeはDuckDuckGoを使うNepmium Browserです
+Tip.nepmium_private.exeはDuckDuckGoを使うNepmium Browserです
 
 ## 使い方
 
