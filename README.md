@@ -26,7 +26,7 @@ Tip.nepmium_private.exeはDuckDuckGoを使うNepmium Browserです
 
 🔃:ページをリロードします
 
-GO:アドレス欄に入れたURLへ移動します(アドレス欄にURLを入力する場合は必ず「http://」か「https://」から入力してください)
+GO:アドレス欄に入れたURLへ移動します(アドレス欄にURLを入力する場合は**必ず**「http://」か「https://」から入力してください)
 
 ## 注意
 
