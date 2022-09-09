@@ -14,7 +14,7 @@ Releasesでの最新バージョンをダウンロードします
 
 ## 起動方法
 
-# Version 1.2.0からEXE化されたのでEXEファイルを叩くだけで起動できるようになりました
+### Version 1.2.0からEXE化されたのでEXEファイルを叩くだけで起動できるようになりました
 
 Tip.private.exeはDuckDuckGoを使うNepmium Browserです
 
