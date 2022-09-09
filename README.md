@@ -14,17 +14,9 @@ Releasesでの最新バージョンをダウンロードします
 
 ## 起動方法
 
-1.Pythonをインストールします<br>
+# Version 1.2.0からEXE化されたのでEXEファイルを叩くだけで起動できるようになりました
 
-2.「pip install pyqt5」をコマンドプロンプト(Linuxやmacならターミナル)で実行する
-
-3.「pip install PyQtWebEngine」をコマンドプロンプト(Linuxやmacならターミナル)で実行する
-
-(1と2と3は初回だけでいいです)
-
-4.Nepmiumのファイルが有るところへ移動し、Windowsならエクスプローラーのアドレス欄に(Linuxやmacならターミナルでcdなどを使い移動し、)「python nepmium.py」と入れれば起動します
-
-Tip.nepmium_private.pyはDuckDuckGoを使うNepmium Browserです
+Tip.private.exeはDuckDuckGoを使うNepmium Browserです
 
 ## 使い方
 
